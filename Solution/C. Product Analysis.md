@@ -288,4 +288,4 @@ WHERE common_combinations = (SELECT MAX(common_combinations)
 | 5d267b, c4a632, e31d39 | White Tee Shirt - Mens, Navy Oversized Jeans - Womens, Cream Relaxed Jeans - Womens        |
 
 ---
-My solution for **[D. Bonus Question](https://github.com/qanhnn12/8-Week-SQL-Challenge/blob/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co./Solution/D.%20Bonus%20Question.md)**.
+My solution for **[D. Bonus Question](https://github.com/TranVanHanh12/SQL/blob/main/Solution/D.%20Bonus%20Question.md)**.
